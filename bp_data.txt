@@ -1,0 +1,1284 @@
+#learning_rate test_size=0.90
+
+learning_rate = 0.01
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_accuracy=0.9123
+validation=0.866232305765152
+training_ac=0.9160000026226044
+
+learning_rate = 0.02
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_accuracy=0.9206
+validation=0.892575740814209
+training_ac=0.9410000026226044
+
+learning_rate = 0.03
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_accuracy=0.9286
+validation=0.902777761220932
+training_ac=0.9600000143051147
+
+learning_rate = 0.04
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_accuracy=0.9286
+validation=0.9042222201824188
+training_ac=0.9790000140666961
+
+learning_rate = 0.05
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_accuracy=0.9315
+validation=0.9084444642066956
+training_ac=0.9820000052452087
+
+learning_rate = 0.06
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_accuracy=0.9367
+validation=0.911323219537735
+training_ac=0.9720000088214874
+
+learning_rate = 0.07
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_accuracy=0.9401
+validation=0.9137474894523621
+training_ac=0.9920000076293946
+
+learning_rate = 0.08
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_accuracy=0.9398
+validation=0.9166363775730133
+training_ac=0.9910000026226043
+
+learning_rate = 0.09
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_accuracy=0.9438
+validation=0.9202929437160492
+training_ac=0.9930000007152557
+
+learning_rate = 0.1
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_accuracy=0.9409
+validation=0.9222121238708496
+training_ac=0.9910000026226043
+
+learning_rate = 0.2
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_accuracy=0.9481
+validation=0.9337272644042969
+training_ac=1.0
+
+learning_rate = 0.3
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_accuracy=0.9465
+validation=0.9386666417121887
+training_ac=1.0
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_accuracy=0.953
+validation=0.94518181681633
+training_ac=0.9990000009536744
+
+learning_rate = 0.5
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_accuracy=0.9503
+validation=0.9446666538715363
+training_ac=1.0
+
+learning_rate = 0.6
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_accuracy=0.9516
+validation=0.9445555508136749
+training_ac=0.9990000009536744
+
+learning_rate = 0.7
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_accuracy=0.9467
+validation=0.9329091012477875
+training_ac=1.0
+
+learning_rate = 0.8
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_accuracy=0.9328
+validation=0.9162828326225281
+training_ac=0.9990000009536744
+
+learning_rate = 0.9
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_accuracy=0.9162
+validation=0.8242424130439758
+training_ac=0.9569999992847442
+
+learning_rate = 1.0
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_accuracy=0.9456
+validation=0.9268181920051575
+training_ac=0.9909999966621399
+
+#test_size
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9792
+validation=0.9597979784011841
+training_ac=0.9950000047683716
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.18
+test_accuracy=0.9789
+validation=0.9592929184436798
+training_ac=0.9990000009536744
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.27
+test_accuracy=0.9744
+validation=0.9567369222640991
+training_ac=0.9960000038146972
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.36
+test_accuracy=0.9753
+validation=0.9612121284008026
+training_ac=0.9980000019073486
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.45
+test_accuracy=0.9775
+validation=0.9608888924121857
+training_ac=0.997000002861023
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.54
+test_accuracy=0.9726
+validation=0.9545469880104065
+training_ac=0.9980000019073486
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.63
+test_accuracy=0.9741
+validation=0.9623232483863831
+training_ac=0.9980000019073486
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.72
+test_accuracy=0.9719
+validation=0.9580934345722198
+training_ac=0.9990000009536744
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.81
+test_accuracy=0.9671
+validation=0.9538047313690186
+training_ac=1.0
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.9
+test_accuracy=0.9493
+validation=0.9385858476161957
+training_ac=1.0
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.99
+test_accuracy=0.8715
+validation=0.8637465536594391
+training_ac=1.0
+
+#迭代次数
+
+learning_rate = 0.4
+epochs =1
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9577
+validation=0.9523232579231262
+training_ac=0.9900000095367432
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.978
+validation=0.9551515281200409
+training_ac=0.9960000038146972
+
+learning_rate = 0.4
+epochs =20
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9802
+validation=0.9722222089767456
+training_ac=0.9990000009536744
+
+learning_rate = 0.4
+epochs =30
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9791
+validation=0.971649835507075
+training_ac=0.9993333339691162
+
+learning_rate = 0.4
+epochs =40
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9801
+validation=0.9701515212655067
+training_ac=0.9989999994635582
+
+learning_rate = 0.4
+epochs =50
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9808
+validation=0.9767878830432892
+training_ac=0.9988000011444091
+
+learning_rate = 0.4
+epochs =60
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9812
+validation=0.9749663273493449
+training_ac=0.9995000004768372
+
+learning_rate = 0.4
+epochs =70
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9804
+validation=0.9779076533658164
+training_ac=0.9990000009536744
+
+learning_rate = 0.4
+epochs =80
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9773
+validation=0.9777020178735256
+training_ac=0.9992500007152557
+
+
+learning_rate = 0.4
+epochs =90
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9811
+validation=0.9787542157702975
+training_ac=0.9992222229639689
+
+learning_rate = 0.4
+epochs =100
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9801
+validation=0.9766868680715561
+training_ac=0.9997000002861023
+
+#损失函数
+
+learning_rate = 0.4
+epochs =60
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9814
+validation=0.9783165007829666
+training_ac=1.0
+
+learning_rate = 0.4
+epochs =60
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9698
+validation=0.9402356892824173
+training_ac=0.9605000068744024
+
+#神经元个数
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=10
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9232
+validation=0.8791919052600861
+training_ac=0.9540000081062316
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=20
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9424
+validation=0.928787887096405
+training_ac=0.9760000109672546
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=30
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9601
+validation=0.9341413974761963
+training_ac=0.9900000095367432
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=40
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9582
+validation=0.9449495077133179
+training_ac=0.9920000076293946
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=50
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9658
+validation=0.9477777779102325
+training_ac=0.9960000038146972
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=60
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9712
+validation=0.9508080780506134
+training_ac=0.989000004529953
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=70
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9735
+validation=0.9562626481056213
+training_ac=0.9920000076293946
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=80
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9716
+validation=0.9544444382190704
+training_ac=0.9940000057220459
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=90
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9753
+validation=0.9541414082050323
+training_ac=0.9950000047683716
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=100
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9719
+validation=0.9538383781909943
+training_ac=0.9900000095367432
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=200
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9757
+validation=0.9614141583442688
+training_ac=0.9940000057220459
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9811
+validation=0.9625252485275269
+training_ac=0.9960000038146972
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=400
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9758
+validation=0.9588888883590698
+training_ac=0.9990000009536744
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=500
+stddev=0.03
+test_size=0.09
+test_accuracy=0.1009
+validation=0.09919191896915436
+training_ac=0.1360000003129244
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=600
+stddev=0.03
+test_size=0.09
+test_accuracy=0.1009
+validation=0.09777777642011642
+training_ac=0.10200000032782555
+
+#batch size
+
+learning_rate = 0.4
+epochs =10
+batch_size =10
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.8829
+validation=0.8431313037872314
+training_ac=0.9199999988079071
+
+learning_rate = 0.4
+epochs =10
+batch_size =20
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9589
+validation=0.9494949579238892
+training_ac=0.9949999988079071
+
+learning_rate = 0.4
+epochs =10
+batch_size =30
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9676
+validation=0.9575757384300232
+training_ac=0.9966666638851166
+
+learning_rate = 0.4
+epochs =10
+batch_size =40
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9701
+validation=0.9573737382888794
+training_ac=1.0
+
+learning_rate = 0.4
+epochs =10
+batch_size =50
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9751
+validation=0.9595959782600403
+training_ac=0.9960000038146972
+
+learning_rate = 0.4
+epochs =10
+batch_size =60
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9772
+validation=0.965656578540802
+training_ac=1.0
+
+learning_rate = 0.4
+epochs =10
+batch_size =70
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9771
+validation=0.9604040384292603
+training_ac=0.9971428573131561
+
+learning_rate = 0.4
+epochs =10
+batch_size =80
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9779
+validation=0.959090918302536
+training_ac=0.9975000023841858
+
+learning_rate = 0.4
+epochs =10
+batch_size =90
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9755
+validation=0.9580808281898499
+training_ac=1.0
+
+learning_rate = 0.4
+epochs =10
+batch_size =100
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9774
+validation=0.9533333480358124
+training_ac=0.9980000019073486
+
+learning_rate = 0.4
+epochs =10
+batch_size =110
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.98
+validation=0.9587878882884979
+training_ac=0.9927272737026215
+
+learning_rate = 0.4
+epochs =10
+batch_size =120
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9767
+validation=0.9639393985271454
+training_ac=0.9975000023841858
+
+learning_rate = 0.4
+epochs =10
+batch_size =130
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9738
+validation=0.9552525281906128
+training_ac=0.9915384531021119
+
+learning_rate = 0.4
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9807
+validation=0.9555555582046509
+training_ac=0.9964285731315613
+
+learning_rate = 0.4
+epochs =10
+batch_size =150
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9776
+validation=0.9575757682323456
+training_ac=0.9933333337306977
+
+learning_rate = 0.4
+epochs =10
+batch_size =160
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9776
+validation=0.9622222185134888
+training_ac=0.993749988079071
+
+learning_rate = 0.4
+epochs =10
+batch_size =170
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9717
+validation=0.9542424380779266
+training_ac=0.9935293972492218
+
+learning_rate = 0.4
+epochs =10
+batch_size =180
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9793
+validation=0.9547474682331085
+training_ac=0.9927777707576751
+
+learning_rate = 0.4
+epochs =10
+batch_size =190
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.978
+validation=0.9571717083454132
+training_ac=0.9931578993797302
+
+learning_rate = 0.4
+epochs =10
+batch_size =200
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9798
+validation=0.95171719789505
+training_ac=0.9939999997615814
+
+learning_rate = 0.4
+epochs =10
+batch_size =1
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.0958
+validation=0.10868687182664871
+training_ac=0.3
+
+#最优情况
+
+learning_rate = 0.4
+epochs =60
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9795
+validation=0.9751010040442148
+training_ac=0.9986904760201772
+
+#更新策略
+#true 1.0
+learning_rate = Tensor("ExponentialDecay:0", shape=(), dtype=float32)
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.2176
+validation=0.5631313174962997
+training_ac=0.41428570747375487
+
+#0.9
+learning_rate = Tensor("ExponentialDecay:0", shape=(), dtype=float32)
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.1028
+validation=0.10222221910953522
+training_ac=0.09000000357627869
+
+#0.8
+learning_rate = Tensor("ExponentialDecay:0", shape=(), dtype=float32)
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.968
+validation=0.945555567741394
+training_ac=0.9949999988079071
+
+#0.7
+learning_rate = Tensor("ExponentialDecay:0", shape=(), dtype=float32)
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9685
+validation=0.9451515376567841
+training_ac=0.9942857086658478
+
+#0.6
+learning_rate = Tensor("ExponentialDecay:0", shape=(), dtype=float32)
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9764
+validation=0.9522221982479095
+training_ac=0.9885714292526245
+
+#0.5
+learning_rate = Tensor("ExponentialDecay:0", shape=(), dtype=float32)
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9802
+validation=0.9582828283309937
+training_ac=0.9964285731315613
+
+#0.4
+learning_rate = Tensor("ExponentialDecay:0", shape=(), dtype=float32)
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9774
+validation=0.9603030383586884
+training_ac=0.9964285731315613
+
+#0.3
+learning_rate = Tensor("ExponentialDecay:0", shape=(), dtype=float32)
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9768
+validation=0.9550504982471466
+training_ac=0.9950000047683716
+
+#0.2
+learning_rate = Tensor("ExponentialDecay:0", shape=(), dtype=float32)
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9769
+validation=0.9484848380088806
+training_ac=0.9814285635948181
+
+#0.1
+learning_rate = Tensor("ExponentialDecay:0", shape=(), dtype=float32)
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9722
+validation=0.9375757575035095
+training_ac=0.9692857086658477
+
+#false
+#1.0
+learning_rate = Tensor("ExponentialDecay:0", shape=(), dtype=float32)
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.0958
+validation=0.09939394146203995
+training_ac=0.08714285902678967
+
+#0.9
+learning_rate = Tensor("ExponentialDecay:0", shape=(), dtype=float32)
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9574
+validation=0.8873737156391144
+training_ac=0.9699999868869782
+
+#0.8
+learning_rate = Tensor("ExponentialDecay:0", shape=(), dtype=float32)
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9722
+validation=0.9528282880783081
+training_ac=0.9892857134342193
+
+#0.7
+learning_rate = Tensor("ExponentialDecay:0", shape=(), dtype=float32)
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9708
+validation=0.9444444477558136
+training_ac=0.9921428620815277
+
+#0.6
+learning_rate = Tensor("ExponentialDecay:0", shape=(), dtype=float32)
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9736
+validation=0.9531312882900238
+training_ac=0.9957142829895019
+
+#0.5
+learning_rate = Tensor("ExponentialDecay:0", shape=(), dtype=float32)
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9774
+validation=0.9552525281906128
+training_ac=0.9942857146263122
+
+#0.4
+learning_rate = Tensor("ExponentialDecay:0", shape=(), dtype=float32)
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9795
+validation=0.9581818282604218
+training_ac=0.997857141494751
+
+#0.3
+learning_rate = Tensor("ExponentialDecay:0", shape=(), dtype=float32)
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9792
+validation=0.9593939483165741
+training_ac=0.9942857086658478
+
+#0.2
+learning_rate = Tensor("ExponentialDecay:0", shape=(), dtype=float32)
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9767
+validation=0.9500000178813934
+training_ac=0.9857142806053162
+
+#0.1
+learning_rate = Tensor("ExponentialDecay:0", shape=(), dtype=float32)
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9718
+validation=0.9288888871669769
+training_ac=0.9778571367263794
+
+#固定学习率
+learning_rate = 1.0
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.0892
+validation=0.08808080852031708
+training_ac=0.10785714574158192
+
+learning_rate = 0.9
+epochs =10
+batch_size =190
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.0974
+validation=0.1048484817147255
+training_ac=0.08999999985098839
+
+learning_rate = 0.8
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9784
+validation=0.9623232483863831
+training_ac=0.9964285731315613
+
+learning_rate = 0.7
+epochs =10
+batch_size =190
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9768
+validation=0.9589898884296417
+training_ac=0.9947368383407593
+
+learning_rate = 0.6
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9807
+validation=0.958686888217926
+training_ac=0.9921428561210632
+
+learning_rate = 0.5
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9783
+validation=0.9603030383586884
+training_ac=0.9957142889499664
+
+learning_rate = 0.4
+epochs =10
+batch_size =190
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.977
+validation=0.956161618232727
+training_ac=0.9873684227466584
+
+learning_rate = 0.3
+epochs =10
+batch_size =190
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9767
+validation=0.9589899182319641
+training_ac=0.9936842143535614
+
+learning_rate = 0.2
+epochs =10
+batch_size =140
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.9754
+validation=0.951818197965622
+training_ac=0.9849999964237213
+
+learning_rate = 0.1
+epochs =10
+batch_size =190
+neure=300
+stddev=0.03
+test_size=0.09
+test_accuracy=0.966
+validation=0.9229292869567871
+training_ac=0.9542105197906494
+
+
+#plot
+
+learning_rate = 0.4
+epochs =10
+batch_size =140
+neure=100
+stddev=0.03
+test_size=0.82
+test_accuracy=0.9591
+validation=0.9442793726921082
+training_ac=0.9985714256763458
+
+learning_rate = 0.4
+epochs =10
+batch_size =140
+neure=100
+stddev=0.03
+test_size=0.72
+test_accuracy=0.9643
+validation=0.944217175245285
+training_ac=0.9935714304447174
+
+learning_rate = 0.4
+epochs =10
+batch_size =140
+neure=100
+stddev=0.03
+test_size=0.63
+test_accuracy=0.97
+validation=0.951341986656189
+training_ac=0.992857140302658
+
+learning_rate = 0.4
+epochs =10
+batch_size =140
+neure=100
+stddev=0.03
+test_size=0.54
+test_accuracy=0.972
+validation=0.9512474536895752
+training_ac=0.9985714256763458
+
+learning_rate = 0.4
+epochs =10
+batch_size =140
+neure=100
+stddev=0.03
+test_size=0.45
+test_accuracy=0.9713
+validation=0.9529697000980377
+training_ac=0.9942857146263122
+
+learning_rate = 0.4
+epochs =10
+batch_size =140
+neure=100
+stddev=0.03
+test_size=0.36
+test_accuracy=0.9705
+validation=0.9514898955821991
+training_ac=0.9957142829895019
+
+learning_rate = 0.4
+epochs =10
+batch_size =140
+neure=100
+stddev=0.03
+test_size=0.27
+test_accuracy=0.9699
+validation=0.9566358923912048
+training_ac=0.9928571462631226
+
+learning_rate = 0.4
+epochs =10
+batch_size =140
+neure=100
+stddev=0.03
+test_size=0.18
+test_accuracy=0.9752
+validation=0.953888863325119
+training_ac=0.9921428501605988
+
+
+#plot2
+
+learning_rate = 0.4
+epochs =10
+batch_size =140
+neure=50
+stddev=0.03
+test_size=0.81
+test_accuracy=0.9544
+validation=0.9362626373767853
+training_ac=0.9914285719394684
+
+learning_rate = 0.4
+epochs =10
+batch_size =140
+neure=50
+stddev=0.03
+test_size=0.72
+test_accuracy=0.9575
+validation=0.93946972489357
+training_ac=0.9921428561210632
+
+learning_rate = 0.4
+epochs =10
+batch_size =140
+neure=50
+stddev=0.03
+test_size=0.63
+test_accuracy=0.9596
+validation=0.9410533905029297
+training_ac=0.993571424484253
+
+learning_rate = 0.4
+epochs =10
+batch_size =140
+neure=50
+stddev=0.03
+test_size=0.54
+test_accuracy=0.9626
+validation=0.9433857500553131
+training_ac=0.9921428561210632
+
+learning_rate = 0.4
+epochs =10
+batch_size =140
+neure=50
+stddev=0.03
+test_size=0.45
+test_accuracy=0.9648
+validation=0.9471515119075775
+training_ac=0.9949999988079071
+
+learning_rate = 0.4
+epochs =10
+batch_size =140
+neure=50
+stddev=0.03
+test_size=0.36
+test_accuracy=0.9586
+validation=0.9479797780513763
+training_ac=0.9914285659790039
+
+learning_rate = 0.4
+epochs =10
+batch_size =140
+neure=50
+stddev=0.03
+test_size=0.27
+test_accuracy=0.9664
+validation=0.9404753744602203
+training_ac=0.9928571462631226
+
+learning_rate = 0.4
+epochs =10
+batch_size =140
+neure=50
+stddev=0.03
+test_size=0.18
+test_accuracy=0.9631
+validation=0.9466161727905273
+training_ac=0.9885714232921601

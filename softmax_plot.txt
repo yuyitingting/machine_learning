@@ -1,0 +1,146 @@
+
+softmax
+iteration=7000
+cross_entropy
+GradientDescentOptimizer
+learning_rate=0.9
+batch_size=100
+accuracy= 0.9258
+mean_validation=0.0
+train_mean_ac=0.9216614303716592
+55000
+
+
+softmax
+iteration=7000
+cross_entropy
+GradientDescentOptimizer
+learning_rate=0.9
+batch_size=100
+accuracy= 0.9256
+mean_validation=0.9056675359180996
+train_mean_ac=0.9227871450100626
+50000
+
+
+softmax
+iteration=7000
+cross_entropy
+GradientDescentOptimizer
+learning_rate=0.9
+batch_size=100
+accuracy= 0.9237
+mean_validation=0.9056421371868678
+train_mean_ac=0.9215685733343874
+45000
+
+
+softmax
+iteration=7000
+cross_entropy
+GradientDescentOptimizer
+learning_rate=0.9
+batch_size=100
+accuracy= 0.9238
+mean_validation=0.9082842482413565
+train_mean_ac=0.922227144241333
+40000
+
+softmax
+iteration=7000
+cross_entropy
+GradientDescentOptimizer
+learning_rate=0.9
+batch_size=100
+accuracy= 0.9247
+mean_validation=0.9046756047861917
+train_mean_ac=0.9232457160481384
+35000
+
+softmax
+iteration=7000
+cross_entropy
+GradientDescentOptimizer
+learning_rate=0.9
+batch_size=100
+accuracy= 0.9251
+mean_validation=0.9062160342080252
+train_mean_ac=0.9226300018663918
+30000
+
+softmax
+iteration=7000
+cross_entropy
+GradientDescentOptimizer
+learning_rate=0.9
+batch_size=100
+accuracy= 0.9235
+mean_validation=0.9072555817876543
+train_mean_ac=0.9260514303179724
+25000
+
+softmax
+iteration=7000
+cross_entropy
+GradientDescentOptimizer
+learning_rate=0.9
+batch_size=100
+accuracy= 0.9232
+mean_validation=0.9049267871890749
+train_mean_ac=0.9278885730696576
+20000
+
+softmax
+iteration=7000
+cross_entropy
+GradientDescentOptimizer
+learning_rate=0.9
+batch_size=100
+accuracy= 0.9222
+mean_validation=0.9039037178243909
+train_mean_ac=0.9325257158449718
+15000
+
+softmax
+iteration=7000
+cross_entropy
+GradientDescentOptimizer
+learning_rate=0.9
+batch_size=100
+accuracy= 0.9149
+mean_validation=0.9002108401911599
+train_mean_ac=0.9368228587997811
+10000
+
+softmax
+iteration=7000
+cross_entropy
+GradientDescentOptimizer
+learning_rate=0.9
+batch_size=100
+accuracy= 0.9119
+mean_validation=0.8964501798152924
+train_mean_ac=0.949105717267309
+5000
+
+softmax
+iteration=7000
+cross_entropy
+GradientDescentOptimizer
+learning_rate=0.9
+batch_size=100
+accuracy= 0.9173
+mean_validation=0.9024480986169406
+train_mean_ac=0.9339128586564746
+val：45000
+
+softmax
+iteration=7000
+cross_entropy
+GradientDescentOptimizer
+learning_rate=0.9
+batch_size=100
+accuracy= 0.9075
+mean_validation=0.8951930352619716
+train_mean_ac=0.9446200021484068
+val_:50000

@@ -1,0 +1,6 @@
+https://github.com/Hunter-P/tensorflow-minist/blob/master/nn.py
+https://blog.csdn.net/weixin_41445387/article/details/96013551
+官方http://www.tensorfly.cn/tfdoc/get_started/introduction.html
+bp3的性能更好，想办法使用验证集，把老师要求提交的内容做好
+额外做一个官方的卷积网络 99%
+https://github.com/TwVenus/BPN-for-MNIST0.98
